@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/javax.ws.rs-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Desktop/JAR/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
